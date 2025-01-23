@@ -1,1 +1,2 @@
-# AIEVO
+# What's AIEVO
+We propose a brand-new AI technology platform concept: providing an efficient, flexible, and scalable solution through intelligent division of labor and collaboration among AI agents. This platform not only supports parallel execution of multiple tasks but also enables intelligent scheduling and adaptive optimization during task execution, significantly improving task processing efficiency and accuracy.
