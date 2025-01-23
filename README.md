@@ -1,5 +1,6 @@
 # AIEVO Introduction
 With the rapid development of artificial intelligence (AI) technology, AI has become a core driver of industrial transformation and economic growth. From machine learning and deep learning to reinforcement learning, AI technologies are increasingly penetrating various industries, driving digital transformation. However, current AI systems still face many technical challenges, especially when handling complex, cross-domain tasks. Notably, there are significant bottlenecks in multi-model collaboration, resource sharing, and intelligent scheduling. Most existing AI applications are based on single models or algorithms, making it difficult to achieve overall collaboration within intelligent systems and flexibly respond to dynamic task requirements.
+
 Against this backdrop, we propose a brand-new AI technology platform concept: providing an efficient, flexible, and scalable solution through intelligent division of labor and collaboration among AI agents. This platform not only supports parallel execution of multiple tasks but also enables intelligent scheduling and adaptive optimization during task execution, significantly improving task processing efficiency and accuracy.
 
 Pull out the code and run it:
