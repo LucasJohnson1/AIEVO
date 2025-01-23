@@ -6,6 +6,7 @@ Pull out the code and run it:
 
 ```bash
 git clone https://github.com/LucasJohnson1/AIEVO.git
+```
 
 ## Core Features of the Platform
 1. [Intelligent Task Allocation and Scheduling](#a1)
